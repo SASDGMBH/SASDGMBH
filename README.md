@@ -1,4 +1,4 @@
-# SASD GmbH – Scientific and Software Development
+# SASD GmbH – Scientific Application Software Development
 
 Willkommen im offiziellen GitHub-Repository der **SASD GmbH**! Wir sind ein innovatives Unternehmen mit dem Fokus auf **wissenschaftliche Softwareentwicklung, Systemadministration und IT-Beratung**. Unsere Lösungen verbinden tiefgehendes technisches Know-how mit praxisnahen Anwendungen für Forschungseinrichtungen, Unternehmen und öffentliche Institutionen.
 
