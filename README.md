@@ -11,7 +11,7 @@ Die **SASD GmbH** steht für nachhaltige, leistungsfähige und zukunftsorientier
 
 ### **Unsere Expertise**:
 
-Unsere Expertise umfasst C++, c#, JavaScript, Node.js, React und moderne DevOps-Technologien. Wir entwickeln individuelle Lösungen für Machine Learning, Automatisierung, Datenverarbeitung und Cloud-native Anwendungen.
+Unsere Expertise umfasst C++, C#, JavaScript, Node.js, React und moderne DevOps-Technologien. Wir entwickeln individuelle Lösungen für Machine Learning, Automatisierung, Datenverarbeitung und Cloud-native Anwendungen.
 
 - **Wissenschaftliche Softwareentwicklung**: Hochperformante Anwendungen für Datenanalyse, Simulation und Modellierung.
 - **Individuelle Softwarelösungen**: Maßgeschneiderte Anwendungen für Forschung, Industrie und Verwaltung.
