@@ -1,61 +1,85 @@
-# SASD GmbH – Scientific Application Software Development
+# SASD-GmbH – Scientific and Software Development
 
-Willkommen im offiziellen GitHub-Repository der **SASD GmbH**!
+SASD-GmbH develops pragmatic software and infrastructure solutions for small businesses, research-oriented workflows and technical IT environments.
 
-Wir sind ein innovatives Unternehmen mit dem Fokus auf **wissenschaftliche Softwareentwicklung**, **Systemadministration** und **IT-Beratung**. Unsere Lösungen verbinden tiefgehendes technisches Know-how mit praxisnahen Anwendungen für **Forschungseinrichtungen**, **Unternehmen** und **öffentliche Institutionen**.
-
----
-
-## Über uns
-Die **SASD GmbH** steht für nachhaltige, leistungsfähige und zukunftsorientierte Softwarelösungen. Wir sind Ihr Partner für wissenschaftliche Softwareentwicklung, IT-Infrastruktur und Open-Source-Lösungen. Wir entwickeln innovative Anwendungen für Forschung, Industrie und Unternehmen, mit Fokus auf moderne Webtechnologien, KI und Datenanalyse.
-
-### **Unsere Expertise**:
-
-Unsere Expertise umfasst C++, C#, JavaScript, Node.js, React und moderne DevOps-Technologien. Wir entwickeln individuelle Lösungen für Machine Learning, Automatisierung, Datenverarbeitung und Cloud-native Anwendungen.
-
-- **Wissenschaftliche Softwareentwicklung**: Hochperformante Anwendungen für Datenanalyse, Simulation und Modellierung.
-- **Individuelle Softwarelösungen**: Maßgeschneiderte Anwendungen für Forschung, Industrie und Verwaltung.
-- **Open-Source-Engagement**: Entwicklung und Unterstützung von Open-Source-Technologien.
-- **Systemadministration & IT-Infrastruktur**: Planung, Implementierung und Wartung moderner IT-Systeme.
+We combine software development, Linux system administration, database work and technical documentation to build maintainable solutions that are useful in real-world operations — not only in demonstrations.
 
 ---
 
-## Unsere Schwerpunkte
-Wir arbeiten mit modernen Technologien, um zukunftssichere Lösungen zu entwickeln: 
+## What we do
 
-### **Full-Stack Webentwicklung**
-- **Backend**: Java (Spring Boot), Node.js (Express), ASP.NET (C#), PHP und C++.
-- **Frontend**: React, Vue.js 
-- **Datenbanken**: Oracle, PostgreSQL, MySQL, MongoDB 
+SASD-GmbH focuses on practical engineering work at the intersection of software, infrastructure and documentation.
 
-### **Forschungsdatenmanagement** zur strukturierten Verwaltung und Analyse wissenschaftlicher Daten.
-- **Open Data**: Strukturierte Verwaltung & Analyse wissenschaftlicher Daten 
-- **Datenverarbeitung**: Machine Learning & statistische Modellierung 
+Our current areas of work include:
 
-### **Cloud & DevOps** für skalierbare und sichere IT-Architekturen.
-- **CI/CD**: Automatisierung mit GitHub Actions, Jenkins 
-- **Container-Technologien**: Docker, Kubernetes und Podman
-- **Cloud-Plattformen**: AWS, Azure, On-Premise Lösungen
-
-### **IT-Beratung & Schulungen**, um Teams auf den neuesten Stand der Technik zu bringen.
-- Unterstützung für Unternehmen & Forschungseinrichtungen 
-- Schulungen zu modernen Technologien & Best Practices 
+- Linux server administration and infrastructure support
+- Custom software development with C#, PHP, JavaScript and SQL
+- Web and REST API development
+- Database-backed business applications
+- Research-oriented software concepts and data management tools
+- Technical documentation, architecture documents and maintainable project structures
+- Open-source based solutions for small and medium-sized organizations
 
 ---
 
-## Unsere Open-Source-Projekte 
-Wir engagieren uns aktiv in der Open-Source-Community und entwickeln innovative Lösungen: 
-- **[Scientific Computing Toolkit](https://github.com/sasdGmbh/scientific-computing-toolkit)** – Open-Source-Bibliothek für numerische Berechnungen 
-- **[SASD DevOps Tools](https://github.com/sasdGmbh/devops-tools)** – Automatisierung für moderne IT-Infrastrukturen 
-- **[Full-Stack Showcase](https://github.com/sasdGmbh/fullstack-showcase)** – Beispielanwendungen für Webentwicklung & Cloud-Architekturen 
+## How we work
+
+We prefer small, robust and understandable solutions over unnecessarily complex systems.
+
+A typical SASD project starts with clear requirements, a realistic MVP scope and a maintainable technical design. We value readable code, transparent decisions, practical documentation and security-conscious engineering.
+
+Customers can expect:
+
+- clear requirements analysis
+- pragmatic MVP planning
+- maintainable and documented code
+- security-conscious design
+- transparent architecture decisions
+- reliable communication and realistic project scope
 
 ---
 
-## Kontakt
-Möchten Sie mehr über uns erfahren:
-- Website: [www.sasd.de](https://www.sasd.de) 
-- E-Mail: [info@sasd.de](mailto:info@sasd.de) 
-- LinkedIn: [SASD GmbH](https://www.linkedin.com/company/sasd-gmbh) 
+## Public repositories
 
-Wir freuen uns auf den Austausch mit Entwicklern, Forschern und Unternehmen! 
-**Lasst uns gemeinsam die digitale Zukunft gestalten.** 🚀
+This GitHub account is used as a curated public space for selected SASD projects, examples and documentation.
+
+Experimental, unfinished or internal work is kept private or outside this account until it is suitable for public presentation.
+
+Public repositories may include:
+
+- selected open-source components
+- technical demonstrations
+- documentation examples
+- architecture and project templates
+- small tools that reflect SASD engineering practices
+
+---
+
+## Current status
+
+The public SASD GitHub presence is being cleaned up and reorganized.
+
+Some repositories may be demonstration projects, prototypes or documentation examples rather than finished products. Each public repository should state its status clearly in its own README.
+
+---
+
+## Technology areas
+
+SASD-GmbH works with technologies such as:
+
+- Linux, Debian, Bash and server administration tools
+- C#, .NET, Windows desktop applications and service tooling
+- PHP, JavaScript, Node.js and REST APIs
+- SQL databases such as MySQL, MariaDB, SQLite and PostgreSQL
+- Git, GitHub, documentation workflows and DevOps foundations
+
+Technology choices depend on the project goal. We do not use technology for its own sake; we choose tools that fit the problem, the budget and the maintainability requirements.
+
+---
+
+## Contact
+
+Website: https://www.sasd.de  
+Email: info@sasd.de
+
+For project inquiries, technical cooperation or documentation-focused software work, please contact SASD-GmbH directly.
